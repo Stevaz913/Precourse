@@ -144,7 +144,7 @@ function averageTestScore(testScores) {
     numbers.pop();
     numfin = totnum;
   }
-  return (totlength / totnum) * 100;
+  return (numfin / totlength);
 }
 
 
