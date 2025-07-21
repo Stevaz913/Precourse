@@ -1,0 +1,127 @@
+[
+  {
+    "text": "Who played the role of Marty McFly in the Back to the Future trilogy?",
+    "options": ["Christopher Lloyd", "Tom Wilson", "Michael J. Fox", "Lea Thompson"],
+    "correctIndex": 2
+  },
+  {
+    "text": "What is the name of the time machine in Back to the Future?",
+    "options": ["Flux Capacitor", "DeLorean", "Plutonium Chamber", "Time Hopper"],
+    "correctIndex": 1
+  },
+  {
+    "text": "In the first movie, what year does Marty travel back to?",
+    "options": ["1955", "1985", "2015", "1885"],
+    "correctIndex": 0
+  },
+  {
+    "text": "Who directed the Back to the Future trilogy?",
+    "options": ["Steven Spielberg", "George Lucas", "James Cameron", "Robert Zemeckis"],
+    "correctIndex": 3
+  },
+  {
+    "text": "What is Doc Brown's full name?",
+    "options": ["Emmett Lathrop Brown", "Einstein Newton Brown", "Hubert Farnsworth Brown", "Christopher Lloyd Brown"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What speed must the DeLorean reach to time travel?",
+    "options": ["88 mph", "100 mph", "65 mph", "120 mph"],
+    "correctIndex": 0
+  },
+  {
+    "text": "In Back to the Future Part II, what year do they travel to in the future?",
+    "options": ["2015", "2050", "1985", "1955"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is the name of Marty's girlfriend?",
+    "options": ["Lorraine Baines", "Biff Tannen", "George McFly", "Jennifer Parker"],
+    "correctIndex": 3
+  },
+  {
+    "text": "Who plays Biff Tannen?",
+    "options": ["Crispin Glover", "Thomas F. Wilson", "Michael J. Fox", "Christopher Lloyd"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What invention makes time travel possible?",
+    "options": ["DeLorean", "Flux Capacitor", "Plutonium", "Lightning Rod"],
+    "correctIndex": 1
+  },
+  {
+    "text": "In Part III, what year do Marty and Doc travel to?",
+    "options": ["2015", "1955", "1885", "1985"],
+    "correctIndex": 2
+  },
+  {
+    "text": "What is the name of Doc's dog?",
+    "options": ["Einstein", "Copernicus", "Newton", "Galileo"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What alias does Marty use in 1955?",
+    "options": ["Clint Eastwood", "Michael Jordan", "Levi Strauss", "Calvin Klein"],
+    "correctIndex": 3
+  },
+  {
+    "text": "In Part II, what item causes trouble when brought back from the future?",
+    "options": ["Sports Almanac", "Hoverboard", "Mr. Fusion", "Self-lacing Shoes"],
+    "correctIndex": 0
+  },
+  {
+    "text": "Who is the villain in the 2015 scenes of Part II?",
+    "options": ["Griff Tannen", "Biff Tannen", "Buford Tannen", "Marty McFly Jr."],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is the name of the school dance in 1955?",
+    "options": ["Enchantment Under the Sea", "Hill Valley High Prom", "Back to the Future Dance", "Lightning Strike Ball"],
+    "correctIndex": 0
+  },
+  {
+    "text": "In Part III, what is the name of Doc's love interest?",
+    "options": ["Clara Clayton", "Jennifer Parker", "Lorraine Baines", "Maggie McFly"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is Biff's ancestor called in Part III?",
+    "options": ["Griff Tannen", "Buford 'Mad Dog' Tannen", "Old Man Tannen", "Kid Tannen"],
+    "correctIndex": 1
+  },
+  {
+    "text": "How does the DeLorean get destroyed in Part III?",
+    "options": ["Struck by lightning", "Hit by a train", "Falls off a cliff", "Explodes from plutonium"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What alias does Marty use in 1885?",
+    "options": ["Clint Eastwood", "Calvin Klein", "Michael Jordan", "Levi Strauss"],
+    "correctIndex": 0
+  },
+  {
+    "text": "Who composed the theme music for Back to the Future?",
+    "options": ["John Williams", "Alan Silvestri", "Hans Zimmer", "Danny Elfman"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the name of the clock tower event in 1955?",
+    "options": ["Lightning strike", "Hill Valley Festival", "Clock Dedication", "Dance Night"],
+    "correctIndex": 0
+  },
+  {
+    "text": "In Part II, what does Doc use as fuel for the DeLorean in 1885?",
+    "options": ["Trash", "Plutonium", "Mr. Fusion", "Lightning"],
+    "correctIndex": 0
+  },
+  {
+    "text": "Who replaced Claudia Wells as Jennifer in Parts II and III?",
+    "options": ["Elisabeth Shue", "Lea Thompson", "Crispin Glover", "Mary Steenburgen"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What date is known as Back to the Future Day?",
+    "options": ["October 21, 2015", "November 5, 1955", "October 26, 1985", "September 5, 1885"],
+    "correctIndex": 0
+  }
+]
