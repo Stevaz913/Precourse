@@ -1,127 +1,127 @@
 [
   {
-    "text": "What is the name of the fairy godmother in Cinderella?",
-    "options": ["Flora", "Merryweather", "Fauna", "Fairy Godmother"],
+    "text": "Who directed the first Terminator movie in 1984?",
+    "options": ["James Cameron", "Ridley Scott", "Steven Spielberg", "Michael Bay"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is the model number of the Terminator sent to kill Sarah Connor in the first film?",
+    "options": ["T-800", "T-1000", "T-X", "T-3000"],
+    "correctIndex": 0
+  },
+  {
+    "text": "In Terminator 2: Judgment Day, who plays the young John Connor?",
+    "options": ["Edward Furlong", "Christian Bale", "Nick Stahl", "Jason Clarke"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is the name of the AI system that becomes self-aware and starts the nuclear war?",
+    "options": ["Cyberdyne", "Skynet", "Genisys", "Legion"],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which actor reprises his role as the T-800 in Terminator: Dark Fate?",
+    "options": ["Arnold Schwarzenegger", "Sam Worthington", "Kristanna Loken", "Robert Patrick"],
+    "correctIndex": 0
+  },
+  {
+    "text": "In Terminator 3: Rise of the Machines, what is the name of the female Terminator?",
+    "options": ["T-1", "T-X", "T-1000", "T-850"],
+    "correctIndex": 1
+  },
+  {
+    "text": "Who plays Sarah Connor in the original Terminator film?",
+    "options": ["Linda Hamilton", "Emilia Clarke", "Lena Headey", "Kristanna Loken"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What year is Judgment Day originally set to occur in Terminator 2?",
+    "options": ["1997", "1984", "2029", "2017"],
+    "correctIndex": 0
+  },
+  {
+    "text": "In Terminator Salvation, who plays Marcus Wright?",
+    "options": ["Christian Bale", "Sam Worthington", "Anton Yelchin", "Moon Bloodgood"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the catchphrase of the Terminator?",
+    "options": ["Hasta la vista, baby", "I'll be back", "Come with me if you want to live", "Get out"],
+    "correctIndex": 1
+  },
+  {
+    "text": "In Terminator Genisys, who plays the older Sarah Connor?",
+    "options": ["Linda Hamilton", "Emilia Clarke", "Lena Headey", "Sarah Connor"],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which film introduces the liquid metal Terminator?",
+    "options": ["Terminator 3: Rise of the Machines", "The Terminator", "Terminator 2: Judgment Day", "Terminator Salvation"],
+    "correctIndex": 2
+  },
+  {
+    "text": "Who composed the iconic Terminator theme music?",
+    "options": ["John Williams", "Hans Zimmer", "Brad Fiedel", "Danny Elfman"],
+    "correctIndex": 2
+  },
+  {
+    "text": "In the Terminator franchise, what is the date of Judgment Day in the original timeline?",
+    "options": ["April 21, 2011", "August 29, 1997", "July 25, 2004", "October 28, 2017"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the name of the Terminator TV series?",
+    "options": ["Terminator: The Sarah Connor Chronicles", "Terminator: Dark Fate", "Terminator: Resistance", "Terminator: Genisys"],
+    "correctIndex": 0
+  },
+  {
+    "text": "Who plays Kyle Reese in the first Terminator movie?",
+    "options": ["Michael Biehn", "Jai Courtney", "Anton Yelchin", "Sam Worthington"],
+    "correctIndex": 0
+  },
+  {
+    "text": "In Terminator 2, what is the name of the mental institution where Sarah Connor is held?",
+    "options": ["Pescadero State Hospital", "Cyberdyne Systems", "Skynet Facility", "Ensenada Prison"],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which Terminator model is sent to protect John Connor in Terminator 2?",
+    "options": ["T-1000", "T-800", "T-X", "T-3000"],
+    "correctIndex": 1
+  },
+  {
+    "text": "In Terminator 3, who plays Kate Brewster?",
+    "options": ["Kristanna Loken", "Claire Danes", "Sophia Bush", "Moon Bloodgood"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the name of the Terminator in Terminator Salvation played by Arnold Schwarzenegger?",
+    "options": ["T-1000", "T-X", "T-800", "T-600"],
+    "correctIndex": 2
+  },
+  {
+    "text": "In Terminator Genisys, what is the name of the new Terminator hybrid?",
+    "options": ["T-5000", "T-3000", "T-1000", "T-800"],
+    "correctIndex": 1
+  },
+  {
+    "text": "Who plays Dani Ramos in Terminator: Dark Fate?",
+    "options": ["Natalia Reyes", "Mackenzie Davis", "Linda Hamilton", "Gabriel Luna"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is the model of the new Terminator in Dark Fate?",
+    "options": ["Rev-7", "Rev-9", "Rev-8", "Rev-6"],
+    "correctIndex": 1
+  },
+  {
+    "text": "In the first Terminator, what is Sarah Connor's occupation?",
+    "options": ["Teacher", "Nurse", "Waitress", "Librarian"],
+    "correctIndex": 2
+  },
+  {
+    "text": "Who wrote the screenplay for The Terminator?",
+    "options": ["Gale Anne Hurd", "James Cameron", "William Wisher Jr.", "All of the above"],
     "correctIndex": 3
-  },
-  {
-    "text": "In The Little Mermaid, what is the name of Ariel's father?",
-    "options": ["King Neptune", "King Triton", "King Sebastian", "King Eric"],
-    "correctIndex": 1
-  },
-  {
-    "text": "Who is the villain in Beauty and the Beast?",
-    "options": ["Jafar", "Ursula", "Gaston", "Maleficent"],
-    "correctIndex": 2
-  },
-  {
-    "text": "What is the name of Simba's uncle in The Lion King?",
-    "options": ["Mufasa", "Scar", "Timon", "Pumbaa"],
-    "correctIndex": 1
-  },
-  {
-    "text": "In Aladdin, what is the name of the genie's voice actor?",
-    "options": ["Will Smith", "Robin Williams", "Dan Castellaneta", "Gilbert Gottfried"],
-    "correctIndex": 1
-  },
-  {
-    "text": "What is the name of the teacup in Beauty and the Beast?",
-    "options": ["Mrs. Potts", "Chip", "Lumiere", "Cogsworth"],
-    "correctIndex": 1
-  },
-  {
-    "text": "Who is the main character in Mulan?",
-    "options": ["Fa Mulan", "Li Shang", "Mushu", "Yao"],
-    "correctIndex": 0
-  },
-  {
-    "text": "In Frozen, what is Elsa's sister's name?",
-    "options": ["Anna", "Olaf", "Kristoff", "Sven"],
-    "correctIndex": 0
-  },
-  {
-    "text": "What is the name of the crab in The Little Mermaid?",
-    "options": ["Flounder", "Sebastian", "Scuttle", "Flotsam"],
-    "correctIndex": 1
-  },
-  {
-    "text": "Who is the villain in Sleeping Beauty?",
-    "options": ["Cruella de Vil", "Maleficent", "Queen of Hearts", "Lady Tremaine"],
-    "correctIndex": 1
-  },
-  {
-    "text": "In Toy Story, what is the name of Andy's dog?",
-    "options": ["Slinky", "Buster", "Rex", "Bo Peep"],
-    "correctIndex": 1
-  },
-  {
-    "text": "What is the name of the elephant in Dumbo?",
-    "options": ["Timothy", "Dumbo", "Casey Junior", "Ringmaster"],
-    "correctIndex": 1
-  },
-  {
-    "text": "Who is the main villain in 101 Dalmatians?",
-    "options": ["Horace", "Jasper", "Cruella de Vil", "Anita"],
-    "correctIndex": 2
-  },
-  {
-    "text": "In Pocahontas, what is the name of the raccoon?",
-    "options": ["Percy", "Meeko", "Flit", "Nakoma"],
-    "correctIndex": 1
-  },
-  {
-    "text": "What is the name of the princess in The Princess and the Frog?",
-    "options": ["Tiana", "Charlotte", "Eudora", "Evangeline"],
-    "correctIndex": 0
-  },
-  {
-    "text": "In Hercules, who is Hercules' trainer?",
-    "options": ["Zeus", "Phil", "Hades", "Megara"],
-    "correctIndex": 1
-  },
-  {
-    "text": "What is the name of the chameleon in Tangled?",
-    "options": ["Flynn", "Pascal", "Maximus", "Mother Gothel"],
-    "correctIndex": 1
-  },
-  {
-    "text": "In Moana, what is the name of the ocean spirit?",
-    "options": ["Te Fiti", "Maui", "Tamatoa", "Hei Hei"],
-    "correctIndex": 0
-  },
-  {
-    "text": "Who is the voice of Genie in the original Aladdin?",
-    "options": ["Will Smith", "Robin Williams", "Dan Castellaneta", "Gilbert Gottfried"],
-    "correctIndex": 1
-  },
-  {
-    "text": "In The Jungle Book, what is the name of the panther?",
-    "options": ["Baloo", "Shere Khan", "Bagheera", "Kaa"],
-    "correctIndex": 2
-  },
-  {
-    "text": "What is the name of the villain in The Hunchback of Notre Dame?",
-    "options": ["Quasimodo", "Phoebus", "Esmeralda", "Frollo"],
-    "correctIndex": 3
-  },
-  {
-    "text": "In Lilo & Stitch, what is Stitch's experiment number?",
-    "options": ["626", "625", "627", "624"],
-    "correctIndex": 0
-  },
-  {
-    "text": "Who is the main character in Ratatouille?",
-    "options": ["Remy", "Linguini", "Colette", "Skinner"],
-    "correctIndex": 0
-  },
-  {
-    "text": "In Up, what is the name of the boy scout?",
-    "options": ["Carl", "Russell", "Dug", "Kevin"],
-    "correctIndex": 1
-  },
-  {
-    "text": "What is the name of the robot in WALL-E?",
-    "options": ["EVE", "WALL-E", "AUTO", "GO-4"],
-    "correctIndex": 1
   }
 ]
