@@ -1,127 +1,127 @@
 [
   {
-    "text": "Who played the role of Marty McFly in the Back to the Future trilogy?",
-    "options": ["Christopher Lloyd", "Tom Wilson", "Michael J. Fox", "Lea Thompson"],
+    "text": "What is the name of the fairy godmother in Cinderella?",
+    "options": ["Flora", "Merryweather", "Fauna", "Fairy Godmother"],
+    "correctIndex": 3
+  },
+  {
+    "text": "In The Little Mermaid, what is the name of Ariel's father?",
+    "options": ["King Neptune", "King Triton", "King Sebastian", "King Eric"],
+    "correctIndex": 1
+  },
+  {
+    "text": "Who is the villain in Beauty and the Beast?",
+    "options": ["Jafar", "Ursula", "Gaston", "Maleficent"],
     "correctIndex": 2
   },
   {
-    "text": "What is the name of the time machine in Back to the Future?",
-    "options": ["Flux Capacitor", "DeLorean", "Plutonium Chamber", "Time Hopper"],
+    "text": "What is the name of Simba's uncle in The Lion King?",
+    "options": ["Mufasa", "Scar", "Timon", "Pumbaa"],
     "correctIndex": 1
   },
   {
-    "text": "In the first movie, what year does Marty travel back to?",
-    "options": ["1955", "1985", "2015", "1885"],
-    "correctIndex": 0
-  },
-  {
-    "text": "Who directed the Back to the Future trilogy?",
-    "options": ["Steven Spielberg", "George Lucas", "James Cameron", "Robert Zemeckis"],
-    "correctIndex": 3
-  },
-  {
-    "text": "What is Doc Brown's full name?",
-    "options": ["Emmett Lathrop Brown", "Einstein Newton Brown", "Hubert Farnsworth Brown", "Christopher Lloyd Brown"],
-    "correctIndex": 0
-  },
-  {
-    "text": "What speed must the DeLorean reach to time travel?",
-    "options": ["88 mph", "100 mph", "65 mph", "120 mph"],
-    "correctIndex": 0
-  },
-  {
-    "text": "In Back to the Future Part II, what year do they travel to in the future?",
-    "options": ["2015", "2050", "1985", "1955"],
-    "correctIndex": 0
-  },
-  {
-    "text": "What is the name of Marty's girlfriend?",
-    "options": ["Lorraine Baines", "Biff Tannen", "George McFly", "Jennifer Parker"],
-    "correctIndex": 3
-  },
-  {
-    "text": "Who plays Biff Tannen?",
-    "options": ["Crispin Glover", "Thomas F. Wilson", "Michael J. Fox", "Christopher Lloyd"],
+    "text": "In Aladdin, what is the name of the genie's voice actor?",
+    "options": ["Will Smith", "Robin Williams", "Dan Castellaneta", "Gilbert Gottfried"],
     "correctIndex": 1
   },
   {
-    "text": "What invention makes time travel possible?",
-    "options": ["DeLorean", "Flux Capacitor", "Plutonium", "Lightning Rod"],
+    "text": "What is the name of the teacup in Beauty and the Beast?",
+    "options": ["Mrs. Potts", "Chip", "Lumiere", "Cogsworth"],
     "correctIndex": 1
   },
   {
-    "text": "In Part III, what year do Marty and Doc travel to?",
-    "options": ["2015", "1955", "1885", "1985"],
+    "text": "Who is the main character in Mulan?",
+    "options": ["Fa Mulan", "Li Shang", "Mushu", "Yao"],
+    "correctIndex": 0
+  },
+  {
+    "text": "In Frozen, what is Elsa's sister's name?",
+    "options": ["Anna", "Olaf", "Kristoff", "Sven"],
+    "correctIndex": 0
+  },
+  {
+    "text": "What is the name of the crab in The Little Mermaid?",
+    "options": ["Flounder", "Sebastian", "Scuttle", "Flotsam"],
+    "correctIndex": 1
+  },
+  {
+    "text": "Who is the villain in Sleeping Beauty?",
+    "options": ["Cruella de Vil", "Maleficent", "Queen of Hearts", "Lady Tremaine"],
+    "correctIndex": 1
+  },
+  {
+    "text": "In Toy Story, what is the name of Andy's dog?",
+    "options": ["Slinky", "Buster", "Rex", "Bo Peep"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the name of the elephant in Dumbo?",
+    "options": ["Timothy", "Dumbo", "Casey Junior", "Ringmaster"],
+    "correctIndex": 1
+  },
+  {
+    "text": "Who is the main villain in 101 Dalmatians?",
+    "options": ["Horace", "Jasper", "Cruella de Vil", "Anita"],
     "correctIndex": 2
   },
   {
-    "text": "What is the name of Doc's dog?",
-    "options": ["Einstein", "Copernicus", "Newton", "Galileo"],
+    "text": "In Pocahontas, what is the name of the raccoon?",
+    "options": ["Percy", "Meeko", "Flit", "Nakoma"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the name of the princess in The Princess and the Frog?",
+    "options": ["Tiana", "Charlotte", "Eudora", "Evangeline"],
     "correctIndex": 0
   },
   {
-    "text": "What alias does Marty use in 1955?",
-    "options": ["Clint Eastwood", "Michael Jordan", "Levi Strauss", "Calvin Klein"],
+    "text": "In Hercules, who is Hercules' trainer?",
+    "options": ["Zeus", "Phil", "Hades", "Megara"],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the name of the chameleon in Tangled?",
+    "options": ["Flynn", "Pascal", "Maximus", "Mother Gothel"],
+    "correctIndex": 1
+  },
+  {
+    "text": "In Moana, what is the name of the ocean spirit?",
+    "options": ["Te Fiti", "Maui", "Tamatoa", "Hei Hei"],
+    "correctIndex": 0
+  },
+  {
+    "text": "Who is the voice of Genie in the original Aladdin?",
+    "options": ["Will Smith", "Robin Williams", "Dan Castellaneta", "Gilbert Gottfried"],
+    "correctIndex": 1
+  },
+  {
+    "text": "In The Jungle Book, what is the name of the panther?",
+    "options": ["Baloo", "Shere Khan", "Bagheera", "Kaa"],
+    "correctIndex": 2
+  },
+  {
+    "text": "What is the name of the villain in The Hunchback of Notre Dame?",
+    "options": ["Quasimodo", "Phoebus", "Esmeralda", "Frollo"],
     "correctIndex": 3
   },
   {
-    "text": "In Part II, what item causes trouble when brought back from the future?",
-    "options": ["Sports Almanac", "Hoverboard", "Mr. Fusion", "Self-lacing Shoes"],
+    "text": "In Lilo & Stitch, what is Stitch's experiment number?",
+    "options": ["626", "625", "627", "624"],
     "correctIndex": 0
   },
   {
-    "text": "Who is the villain in the 2015 scenes of Part II?",
-    "options": ["Griff Tannen", "Biff Tannen", "Buford Tannen", "Marty McFly Jr."],
+    "text": "Who is the main character in Ratatouille?",
+    "options": ["Remy", "Linguini", "Colette", "Skinner"],
     "correctIndex": 0
   },
   {
-    "text": "What is the name of the school dance in 1955?",
-    "options": ["Enchantment Under the Sea", "Hill Valley High Prom", "Back to the Future Dance", "Lightning Strike Ball"],
-    "correctIndex": 0
-  },
-  {
-    "text": "In Part III, what is the name of Doc's love interest?",
-    "options": ["Clara Clayton", "Jennifer Parker", "Lorraine Baines", "Maggie McFly"],
-    "correctIndex": 0
-  },
-  {
-    "text": "What is Biff's ancestor called in Part III?",
-    "options": ["Griff Tannen", "Buford 'Mad Dog' Tannen", "Old Man Tannen", "Kid Tannen"],
+    "text": "In Up, what is the name of the boy scout?",
+    "options": ["Carl", "Russell", "Dug", "Kevin"],
     "correctIndex": 1
   },
   {
-    "text": "How does the DeLorean get destroyed in Part III?",
-    "options": ["Struck by lightning", "Hit by a train", "Falls off a cliff", "Explodes from plutonium"],
+    "text": "What is the name of the robot in WALL-E?",
+    "options": ["EVE", "WALL-E", "AUTO", "GO-4"],
     "correctIndex": 1
-  },
-  {
-    "text": "What alias does Marty use in 1885?",
-    "options": ["Clint Eastwood", "Calvin Klein", "Michael Jordan", "Levi Strauss"],
-    "correctIndex": 0
-  },
-  {
-    "text": "Who composed the theme music for Back to the Future?",
-    "options": ["John Williams", "Alan Silvestri", "Hans Zimmer", "Danny Elfman"],
-    "correctIndex": 1
-  },
-  {
-    "text": "What is the name of the clock tower event in 1955?",
-    "options": ["Lightning strike", "Hill Valley Festival", "Clock Dedication", "Dance Night"],
-    "correctIndex": 0
-  },
-  {
-    "text": "In Part II, what does Doc use as fuel for the DeLorean in 1885?",
-    "options": ["Trash", "Plutonium", "Mr. Fusion", "Lightning"],
-    "correctIndex": 0
-  },
-  {
-    "text": "Who replaced Claudia Wells as Jennifer in Parts II and III?",
-    "options": ["Elisabeth Shue", "Lea Thompson", "Crispin Glover", "Mary Steenburgen"],
-    "correctIndex": 0
-  },
-  {
-    "text": "What date is known as Back to the Future Day?",
-    "options": ["October 21, 2015", "November 5, 1955", "October 26, 1985", "September 5, 1885"],
-    "correctIndex": 0
   }
 ]
